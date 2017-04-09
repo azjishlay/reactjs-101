@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100%;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Seymour {
+  padding: 20px 0;
+}
+
+.Seymour-img {
+  height: 280px;
+}
+
+.Child {
+  display: inline-block;
+  height: 150px;
+}
+
+.Child-img {
+  background-color: #eee;
+  border: 1px solid hotpink;
+  height: 100%;
+  padding: 40px;
+  margin: 10px;
+}
+
+.num {
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+  color: cornflowerblue;
+}
